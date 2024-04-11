@@ -1,3 +1,6 @@
-# Brawl-stars
-Raduradu55
-got an Apple Watch
+## Brawl-stars tarocco
+# Building
+# Unix-like
+$ make
+# Windows
+boh, scarica mingw
