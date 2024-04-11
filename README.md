@@ -1,6 +1,6 @@
-## Brawl-stars tarocco
-# Building
-# Unix-like
+# Brawl-stars tarocco
+### Building
+#### Unix-like
 $ make
-# Windows
+#### Windows
 boh, scarica mingw
